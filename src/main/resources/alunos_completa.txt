@@ -1,0 +1,29 @@
+Quantidade total de alunos: 15
+
+Quantidade total de alunos JAVA : 11
+Alexandre Martins
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Natália Gomes
+Pietra Martins
+Srta. Ana Júlia Ramos
+Thales Farias
+Thomas Peixoto
+Vitor Hugo Lima
+Yago Ramos
+
+Quantidade total de alunos BANCO_DE_DADOS : 12
+Dra. Alana Porto
+Dra. Lavínia Lopes
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Luiz Miguel Azevedo
+Nathan Nascimento
+Natália Gomes
+Srta. Ana Júlia Ramos
+Thales Farias
+Vitor Hugo Lima
+Yago Ramos
+
